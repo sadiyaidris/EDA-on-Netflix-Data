@@ -27,4 +27,12 @@ Manipulated the dataset to gain insights to these questions:
 - 2.8. What is the rating with the most content on Netflix?
     2.8.1. What is the rating with the most uploads based on content types?
     2.8.2. What is the distribution of the ratings in the rating_by_age category?
-
+- 2.9. What are the top genres available on netflix?
+## Visualization
+Findings were communicated using:
+ - Countplots
+ - Barplots
+ - Lineplots
+ - Wordcloud
+ - Pie chart
+ 
